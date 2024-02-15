@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/reactdynamicdata/static/css/main.f4ae8e6e.css",
+    "main.js": "/reactdynamicdata/static/js/main.845f06f7.js",
+    "index.html": "/reactdynamicdata/index.html",
+    "main.f4ae8e6e.css.map": "/reactdynamicdata/static/css/main.f4ae8e6e.css.map",
+    "main.845f06f7.js.map": "/reactdynamicdata/static/js/main.845f06f7.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f4ae8e6e.css",
+    "static/js/main.845f06f7.js"
+  ]
+}
