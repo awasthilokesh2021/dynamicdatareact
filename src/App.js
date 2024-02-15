@@ -9,7 +9,7 @@ function App() {
 
   return (
     <>
-        <Resturant />
+        <Resturant basename="/dynamicdatareact"/>
     </>
     // <div>
     //   <MyContext.Provider value={{ text, setText }}>
