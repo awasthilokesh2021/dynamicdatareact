@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/reactdynamicdata/static/css/main.f4ae8e6e.css",
-    "main.js": "/reactdynamicdata/static/js/main.845f06f7.js",
-    "index.html": "/reactdynamicdata/index.html",
-    "main.f4ae8e6e.css.map": "/reactdynamicdata/static/css/main.f4ae8e6e.css.map",
-    "main.845f06f7.js.map": "/reactdynamicdata/static/js/main.845f06f7.js.map"
+    "main.css": "/dynamicdatareact/static/css/main.f4ae8e6e.css",
+    "main.js": "/dynamicdatareact/static/js/main.909647b8.js",
+    "index.html": "/dynamicdatareact/index.html",
+    "main.f4ae8e6e.css.map": "/dynamicdatareact/static/css/main.f4ae8e6e.css.map",
+    "main.909647b8.js.map": "/dynamicdatareact/static/js/main.909647b8.js.map"
   },
   "entrypoints": [
     "static/css/main.f4ae8e6e.css",
-    "static/js/main.845f06f7.js"
+    "static/js/main.909647b8.js"
   ]
 }
